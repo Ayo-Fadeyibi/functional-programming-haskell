@@ -15,7 +15,7 @@ This repository contains my journey learning Haskell and functional programming.
 - Monads (in progress)
 
 ## 📂 Projects
-- Calculator CLI
+- Calculator CLI (coming soon)
 - Todo CLI (coming soon)
 
 ## 🎯 Goal
